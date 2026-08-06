@@ -65,3 +65,10 @@ Always happy to talk about research, engineering, or an interesting rabbit hole.
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
+## Around the Web
+
+Always happy to talk about research, engineering, or an interesting rabbit hole.
+
+<a href="https://www.linkedin.com/in/trisha-mukherjee-209a79279/">LinkedIn</a> •
+<a href="https://scholar.google.com/citations?hl=en&user=-FEtyPwAAAAJ">Google Scholar</a> •
+<a href="mailto:trisha.mukherjee.2002@gmail.com">Email</a>
