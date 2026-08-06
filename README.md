@@ -1,16 +1,199 @@
-## Hi there 👋
+# Trisha Mukherjee
 
-<!--
-**trishxaaa/trishxaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building reliable AI systems at the intersection of **Generative AI, Computer Vision, Natural Language Processing, and Machine Learning**.
 
-Here are some ideas to get you started:
+I enjoy taking ideas from research papers to working software—whether that means designing multi-agent workflows, evaluating vision-language models, building retrieval pipelines, or experimenting with new model architectures. Most of my work revolves around making AI systems more useful, interpretable, and production-ready.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+Currently interested in problems involving
+
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI systems
+- Vision-Language Models
+- Radiology Report Generation
+- LLM Evaluation
+- Prompt Optimization
+- Workflow Automation
+- Enterprise AI Applications
+- Applied Machine Learning
+
+---
+
+## Research Interests
+
+My research primarily explores how modern AI systems reason, retrieve information, and remain robust under real-world conditions.
+
+Current areas include
+
+- Vision-language modelling
+- Clinical AI
+- NLP robustness
+- Semantic evaluation metrics
+- Retrieval systems
+- Multi-agent architectures
+- Representation learning
+- LLM benchmarking
+
+---
+
+## Engineering Philosophy
+
+I enjoy building systems that are
+
+- modular
+- reproducible
+- observable
+- grounded
+- easy to extend
+
+Rather than treating models as isolated components, I prefer designing complete AI pipelines—from data ingestion and preprocessing to inference, evaluation, deployment, and monitoring.
+
+I also believe evaluation deserves as much engineering effort as modeling.
+
+Many of my repositories focus not only on improving model performance, but also on understanding why models succeed or fail under realistic conditions.
+
+---
+
+## Selected Projects
+
+### CareerCompass
+
+Multi-agent AI career assistant built with LangGraph, FastAPI, Supabase and React.
+
+Features include
+
+- Skill-gap analysis
+- Resume evaluation
+- Learning roadmaps
+- Project recommendations
+- Retrieval-augmented information retrieval
+- Structured LLM outputs
+
+---
+
+### Mentra
+
+Enterprise conversational assistant developed for student success and PRP automation.
+
+Includes
+
+- RAG
+- Semantic search
+- Workflow orchestration
+- Authentication
+- Vector retrieval
+- FastAPI backend
+
+---
+
+### Radiology Report Generation
+
+Research project exploring vision-language models for automated chest X-ray report generation.
+
+Current work investigates
+
+- visual grounding
+- region-aware architectures
+- residual evidence modelling
+- clinical representation learning
+
+---
+
+### NLP Robustness Benchmark
+
+Evaluation framework comparing thirteen NLP architectures across multiple linguistic perturbations on the BoolQ benchmark.
+
+Focus areas
+
+- robustness
+- semantic consistency
+- perturbation sensitivity
+- model reliability
+
+---
+
+## Technical Stack
+
+### Languages
+
+Python • SQL • R • JavaScript • TypeScript
+
+### Machine Learning
+
+PyTorch
+
+TensorFlow
+
+scikit-learn
+
+Hugging Face
+
+Transformers
+
+OpenCV
+
+NLTK
+
+spaCy
+
+SentenceTransformers
+
+### Generative AI
+
+LangChain
+
+LangGraph
+
+RAG
+
+Prompt Engineering
+
+Vector Search
+
+LLM Evaluation
+
+Semantic Search
+
+### Backend
+
+FastAPI
+
+Flask
+
+REST APIs
+
+Supabase
+
+PostgreSQL
+
+MongoDB
+
+### Cloud
+
+Azure
+
+AWS
+
+Docker
+
+GitHub Actions
+
+---
+
+## Current Exploration
+
+Lately I've been experimenting with
+
+- agent memory architectures
+- evaluation frameworks for LLM applications
+- clinical vision-language models
+- retrieval optimization
+- structured generation
+- AI workflow orchestration
+
+---
+
+> *Good models answer questions. Reliable systems solve problems!*
