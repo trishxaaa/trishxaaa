@@ -10,7 +10,7 @@ My curiosity doesn't really stop at AI. One week it's representation learning or
 
 I like repositories that explain themselves. Code matters, but so do the decisions behind it. If you've scrolled past the installation instructions and you're reading the README because you want to know *why* something was built a certain way, you're exactly the audience I had in mind.
 
-### Currently Exploring
+## Currently Exploring
 
 - Grounded multimodal AI
 - Evaluation for LLM systems
