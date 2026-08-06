@@ -148,6 +148,7 @@ Microsoft Azure • AWS • Docker • Git • GitHub • GitHub Actions
 ### AI Domains
 
 Natural Language Processing • Computer Vision • Vision-Language Models • Multi-Agent Systems • Information Retrieval • Workflow Automation • OCR
+
 ---
 
 ## Current Exploration
