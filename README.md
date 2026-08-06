@@ -4,6 +4,11 @@ Building reliable AI systems at the intersection of **Generative AI, Computer Vi
 
 I enjoy taking ideas from research papers to working software; whether that means designing multi-agent workflows, evaluating vision-language models, building retrieval pipelines, or experimenting with new model architectures. Most of my work revolves around making AI systems more useful, interpretable, and production-ready.
 
+<!-- Google Scholar Badge with your verified ID -->
+<a href="https://scholar.google.com/citations?hl=en&user=-FEtyPwAAAAJ" target="_blank">
+  <img src="https://shields.io" alt="Google Scholar"/>
+</a>
+
 ---
 
 ## Current Focus
