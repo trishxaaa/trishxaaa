@@ -47,3 +47,21 @@ Always happy to talk about research, engineering, or an interesting rabbit hole!
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email"/>
   </a>
 </p>
+
+## Around the Web
+
+Always happy to talk about research, engineering, or an interesting rabbit hole.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/trisha-mukherjee-209a79279/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=-FEtyPwAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:trisha.mukherjee.2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
