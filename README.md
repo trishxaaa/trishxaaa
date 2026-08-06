@@ -119,68 +119,35 @@ Focus areas
 
 ### Languages
 
-Python • SQL • R • JavaScript • TypeScript
+Python • SQL • R • JavaScript • TypeScript • Java
 
-### Machine Learning
+### Machine Learning & Deep Learning
 
-PyTorch
+PyTorch • TensorFlow • Scikit-learn • Hugging Face Transformers • OpenCV • NLTK • spaCy • SentenceTransformers • XGBoost • LightGBM
 
-TensorFlow
+### Generative AI & LLMs
 
-scikit-learn
+LangChain • LangGraph • Retrieval-Augmented Generation (RAG) • Prompt Engineering • Semantic Search • Vector Databases • LLM Evaluation • Structured Generation • Agentic AI
 
-Hugging Face
+### Backend & APIs
 
-Transformers
+FastAPI • Flask • REST APIs • Supabase • PostgreSQL • MongoDB • MySQL • Oracle
 
-OpenCV
+### Frontend
 
-NLTK
+React • TypeScript • Tailwind CSS • HTML • CSS
 
-spaCy
+### Data Science & Analytics
 
-SentenceTransformers
+Pandas • NumPy • Tableau • Power BI • Matplotlib • Seaborn • Exploratory Data Analysis • Statistical Analysis
 
-### Generative AI
+### Cloud & DevOps
 
-LangChain
+Microsoft Azure • AWS • Docker • Git • GitHub • GitHub Actions
 
-LangGraph
+### AI Domains
 
-RAG
-
-Prompt Engineering
-
-Vector Search
-
-LLM Evaluation
-
-Semantic Search
-
-### Backend
-
-FastAPI
-
-Flask
-
-REST APIs
-
-Supabase
-
-PostgreSQL
-
-MongoDB
-
-### Cloud
-
-Azure
-
-AWS
-
-Docker
-
-GitHub Actions
-
+Natural Language Processing • Computer Vision • Vision-Language Models • Multi-Agent Systems • Information Retrieval • Workflow Automation • OCR
 ---
 
 ## Current Exploration
