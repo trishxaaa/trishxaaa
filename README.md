@@ -1,172 +1,40 @@
-# Trisha Mukherjee
+# Trisha Mukherjee 
 
-Building reliable AI systems at the intersection of **Generative AI, Computer Vision, Natural Language Processing, and Machine Learning**.
+I build things because I want to understand *why* they work, not because a tutorial told me to.
 
-I enjoy taking ideas from research papers to working software; whether that means designing multi-agent workflows, evaluating vision-language models, building retrieval pipelines, or experimenting with new model architectures. Most of my work revolves around making AI systems more useful, interpretable, and production-ready.
+Most of my work lives somewhere between research and engineering. I'll read a paper until I find the unanswered question underneath it, then build the smallest experiment that can prove (or disprove) the idea. Sometimes the hypothesis survives. Sometimes it doesn't. Both outcomes are useful.
 
+I'm naturally drawn to systems. Give me a single model and I'm already thinking about retrieval pipelines, evaluation frameworks, orchestration, observability, and the trade-offs that appear once something leaves a notebook and has to behave consistently.
+
+My curiosity doesn't really stop at AI. One week it's representation learning or medical vision models. The next it's the chemistry behind why do humans exist, designing a better Notion system for my life, or disappearing down a rabbit hole that absolutely wasn't part of the original plan.
+
+I like repositories that explain themselves. Code matters, but so do the decisions behind it. If you've scrolled past the installation instructions and you're reading the README because you want to know *why* something was built a certain way, you're exactly the audience I had in mind.
+
+### Currently Exploring
+
+- Grounded multimodal AI
+- Evaluation for LLM systems
+- Medical vision-language models
+- Agentic workflows
+- Whatever paper I read at 2 AM
+
+
+> *Still chasing interesting questions.*
+
+
+## Around the Web
+
+Always happy to talk about research, engineering, or an interesting rabbit hole :)
+<!-- Linkedin Badge --> 
+<p align="left">
+  <a href="https://www.linkedin.com/in/trisha-mukherjee-209a79279/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 <!-- Google Scholar Badge -->
 <a href="https://scholar.google.com/citations?hl=en&user=-FEtyPwAAAAJ" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
 </a>
-
----
-
-## Current Focus
-
-Currently interested in problems involving
-
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI systems
-- Vision-Language Models
-- Radiology Report Generation
-- LLM Evaluation
-- Prompt Optimization
-- Workflow Automation
-- Enterprise AI Applications
-- Applied Machine Learning
-
----
-
-## Research Interests
-
-My research primarily explores how modern AI systems reason, retrieve information, and remain robust under real-world conditions.
-
-Current areas include
-
-- Vision-language modelling
-- Clinical AI
-- NLP robustness
-- Semantic evaluation metrics
-- Retrieval systems
-- Multi-agent architectures
-- Representation learning
-- LLM benchmarking
-
----
-
-## Engineering Philosophy
-
-I enjoy building systems that are
-
-- modular
-- reproducible
-- observable
-- grounded
-- easy to extend
-
-Rather than treating models as isolated components, I prefer designing complete AI pipelines—from data ingestion and preprocessing to inference, evaluation, deployment, and monitoring.
-
-I also believe evaluation deserves as much engineering effort as modeling.
-
-Many of my repositories focus not only on improving model performance, but also on understanding why models succeed or fail under realistic conditions.
-
----
-
-## Selected Projects
-
-### CareerCompass
-
-Multi-agent AI career assistant built with LangGraph, FastAPI, Supabase and React.
-
-Features include
-
-- Skill-gap analysis
-- Resume evaluation
-- Learning roadmaps
-- Project recommendations
-- Retrieval-augmented information retrieval
-- Structured LLM outputs
-
----
-
-### Mentra
-
-Enterprise conversational assistant developed for student success and PRP automation.
-
-Includes
-
-- RAG
-- Semantic search
-- Workflow orchestration
-- Authentication
-- Vector retrieval
-- FastAPI backend
-
----
-
-### Radiology Report Generation
-
-Research project exploring vision-language models for automated chest X-ray report generation.
-
-Current work investigates
-
-- visual grounding
-- region-aware architectures
-- residual evidence modelling
-- clinical representation learning
-
----
-
-### NLP Robustness Benchmark
-
-Evaluation framework comparing thirteen NLP architectures across multiple linguistic perturbations on the BoolQ benchmark.
-
-Focus areas
-
-- robustness
-- semantic consistency
-- perturbation sensitivity
-- model reliability
-
----
-
-## Technical Stack
-
-### Languages
-
-Python • SQL • R • JavaScript • TypeScript • Java
-
-### Machine Learning & Deep Learning
-
-PyTorch • TensorFlow • Scikit-learn • Hugging Face Transformers • OpenCV • NLTK • spaCy • SentenceTransformers • XGBoost • LightGBM
-
-### Generative AI & LLMs
-
-LangChain • LangGraph • Retrieval-Augmented Generation (RAG) • Prompt Engineering • Semantic Search • Vector Databases • LLM Evaluation • Structured Generation • Agentic AI
-
-### Backend & APIs
-
-FastAPI • Flask • REST APIs • Supabase • PostgreSQL • MongoDB • MySQL • Oracle
-
-### Frontend
-
-React • TypeScript • Tailwind CSS • HTML • CSS
-
-### Data Science & Analytics
-
-Pandas • NumPy • Tableau • Power BI • Matplotlib • Seaborn • Exploratory Data Analysis • Statistical Analysis
-
-### Cloud & DevOps
-
-Microsoft Azure • AWS • Docker • Git • GitHub • GitHub Actions
-
-### AI Domains
-
-Natural Language Processing • Computer Vision • Vision-Language Models • Multi-Agent Systems • Information Retrieval • Workflow Automation • OCR
-
----
-
-## Current Exploration
-
-Lately I've been experimenting with
-
-- agent memory architectures
-- evaluation frameworks for LLM applications
-- clinical vision-language models
-- retrieval optimization
-- structured generation
-- AI workflow orchestration
-
----
-
-> *Good models answer questions. Reliable systems solve problems!*
+<a href="mailto:trisha.mukherjee.2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
